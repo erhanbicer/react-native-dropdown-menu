@@ -1,6 +1,6 @@
 {
   "name": "@erhanbicer/react-native-dropdown-menu",
-  "version": "1.1.0",
+  "version": "2.0.1",
   "description": "Dorpdown menu for react native",
   "main": "index.js",
   "scripts": {
@@ -22,4 +22,7 @@
     "url": "https://github.com/WheelerLee/react-native-dropdown-menu/issues"
   },
   "homepage": "https://github.com/erhanbicer/react-native-dropdown-menu#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  }
 }
